@@ -2,6 +2,8 @@
 
 Created during the 2015 SpaceAppsChallenge in Boston: https://2015.spaceappschallenge.org/project/explore-capture-and-redirect-real-asteroids-in-kerbal-space-program/
 
+Our presentation for the event is available here: https://docs.google.com/presentation/d/1OTNT7ZLz8V07lehsxV4-J6aZdaToWilgjvU1asy5vpM/edit?usp=sharing
+
 ## What is this?
 
 This game mod will add REAL asteroid data into the game Kerbal Space Program and create missions so we can explore them, capture them and perhaps even sling them out into a different orbit.
