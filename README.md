@@ -16,4 +16,15 @@ By using the graphics and game engine in the fun and creative game Kerbal Space 
 
 ## Installation
 
-Coming later :)
+1. Install the following mods:
+ - CustomAsteroids (https://github.com/Starstrider42/Custom-Asteroids/releases/tag/v1.1.0)
+ - Kopernicus (https://github.com/BryceSchroeder/Kopernicus/releases)
+ - ContractConfigurator (http://forum.kerbalspaceprogram.com/threads/101604)
+2. Copy the contents of the folders in this repo to your GameData folder
+3. ???
+4. Profit!
+
+### Contributors
+ - Jonas Rosland [@jonasrosland](https://twitter.com/jonasrosland)
+ - Lisa Johnson [@lkjohnsn](https://twitter.com/lkjohnsn)
+ - Caroline Troein [@carolinetroe](https://twitter.com/carolinetroe)
