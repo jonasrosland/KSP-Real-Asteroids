@@ -1,3 +1,5 @@
+![KSP Real Asteroids Logo](KSP Real Asteroids Logo.png)
+
 # KSP-Real-Asteroids
 
 Created during the 2015 SpaceAppsChallenge in Boston: https://2015.spaceappschallenge.org/project/explore-capture-and-redirect-real-asteroids-in-kerbal-space-program/
