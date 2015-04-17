@@ -28,6 +28,18 @@ By using the graphics and game engine in the fun and creative game Kerbal Space 
 3. ???
 4. Profit!
 
+### Want more asteroids?
+There's a script called asteroids.py, that reads data from asteroids.csv (created from the JPL database) and automatically generates thousands of asteroids with as accurate data as possible. Use it, and copy the asteroids you want into your Kopernicus library.
+
+## Todo:
+- Figure out if it's possible to stop the spawning of a specific asteroid after it's been spawned once, using CustomAsteroids. We've created Bennu in CustomAsteroids and would like it to only appear once
+- Create more asteroids like Dionysus and 90 Antiope
+- Since Bennu also is a binary system (with a much smaller moon), we might create that using Kopernicus as well
+- Fix the asteroid orbit, mass and rotation data to correspond correctly with the real ones. Right now the settings are close but not entirely correct
+- See if we can create a version for Real Solar System as well
+- Fix the missions to work flawlessly
+- Create random textures to be used for the asteroids.
+
 ### Contributors
  - Jonas Rosland [@jonasrosland](https://twitter.com/jonasrosland)
  - Lisa Johnson [@lkjohnsn](https://twitter.com/lkjohnsn)
